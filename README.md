@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Afaed
 - 👀 I’m interested in game design, politcal books, political philosophy, history, and work.
 - 🌱 I’m currently learning how to program
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
   - Email: justchoy99@gmail.com
 
