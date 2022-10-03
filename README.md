@@ -2,7 +2,8 @@
 - 👀 I’m interested in game design, politcal books, political philosophy, history, and work.
 - 🌱 I’m currently learning how to program
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me:
+  - Email: justchoy99@gmail.com
 
 <!---
 Afaed/Afaed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
